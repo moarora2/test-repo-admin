@@ -1,9 +1,9 @@
 {
   "mappings": [
     "/:/",
-    "/content/test-repo-main/:/",
-    "/content/test-repo-main/configuration:/.helix/config.json",
-    "/content/test-repo-main/metadata:/metadata.json"
+    "/content/test-repo-admin/:/",
+    "/content/test-repo-admin/configuration:/.helix/config.json",
+    "/content/test-repo-admin/metadata:/metadata.json"
   ],
   "includes": [
     "/content/",
